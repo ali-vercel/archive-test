@@ -1,0 +1,13 @@
+{
+  "name": "archive-test",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "build": "bun run index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
